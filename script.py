@@ -178,10 +178,10 @@ if __name__ == "__main__":
             return False
 
 
-    # Beispielaufruf
+    # Aufruf
     if __name__ == "__main__":
         # Pfad zum Ordner mit den MP3-Dateien
-        audio_folder = "C:\\Users\\march\\Downloads\\audio"
+        audio_folder = "C:\\your\path"
 
         # Zusammenfügen der Dateien
         merge_mp3_files_binary(audio_folder)
